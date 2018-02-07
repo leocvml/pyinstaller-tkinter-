@@ -34,7 +34,10 @@ os.remove("temp.ico")
 root.mainloop()
 
 ```  
-
+## console ##
+```  
+pyinstaller tkinter_with_pyinstaller.py -F  
+```
 ref http://blog.csdn.net/lion_cui/article/details/51329497  very thanks
 
 
